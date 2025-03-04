@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073357590878",
+    "project_id": "management-app-f9af4",
+    "storage_bucket": "management-app-f9af4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073357590878:android:36e27c4a040e248f647fcf",
+        "android_client_info": {
+          "package_name": "com.example.hr_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09kLeJ7Lx1O-fUYmTOYWmO0p7KBGYBow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
