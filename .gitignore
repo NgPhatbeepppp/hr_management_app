@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+git status
+
+# File Google Services (Firebase) - Không đẩy key Firebase lên GitHub
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
